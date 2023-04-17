@@ -3,7 +3,7 @@
 Program soap altyapısı ile veri doğrulaması yapılmıştır. 
 Telegramdan kendi botunuzu açarak tokeni ile çalışır.
 
-1- Change token value in 7th line
+1- Change token value in 7th line <br>
 2-pip install -r requirements.txt
 
 
