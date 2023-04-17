@@ -8,5 +8,18 @@ Telegramdan kendi botunuzu açarak tokeni ile çalışır.
 
 
 
+
+![help](https://user-images.githubusercontent.com/67613229/232505190-3a71e81f-2c42-42c6-9646-c845071dea2f.png)
+
+
+
+1 Değerin doğru biçimde aldığı kontrol edilir
+2-Biçim doğru iste istek gönderilir doğru olup olmadığı kontrol edilir
+3-biçim doğru gönderilen verinin istenilen değer biçimleri kontrol edilir doğru değilse istek gönderilmez
  
-![help1](https://user-images.githubusercontent.com/67613229/232504821-8f039627-33ed-4c43-ab6f-a83a32bf87d3.png)
+![açıklama](https://user-images.githubusercontent.com/67613229/232505267-d83cbef6-a024-4550-91f1-f9243a1beef6.png)
+
+
+Gönderilen değerler doğru ise aşşağıdaki gibi bir çıktı alınır 
+
+![doğru](https://user-images.githubusercontent.com/67613229/232505873-389954fa-b0e5-43a1-9ce2-a9e5eee24425.png)
